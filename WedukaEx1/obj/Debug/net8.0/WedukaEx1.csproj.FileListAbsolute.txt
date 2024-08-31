@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\WedukaEx1\WedukaEx1\bin\Debug\net8.0\WedukaEx1.exe
+C:\Users\lucas\source\repos\WedukaEx1\WedukaEx1\bin\Debug\net8.0\WedukaEx1.deps.json
+C:\Users\lucas\source\repos\WedukaEx1\WedukaEx1\bin\Debug\net8.0\WedukaEx1.runtimeconfig.json
+C:\Users\lucas\source\repos\WedukaEx1\WedukaEx1\bin\Debug\net8.0\WedukaEx1.dll
+C:\Users\lucas\source\repos\WedukaEx1\WedukaEx1\bin\Debug\net8.0\WedukaEx1.pdb
+C:\Users\lucas\source\repos\WedukaEx1\WedukaEx1\obj\Debug\net8.0\WedukaEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\WedukaEx1\WedukaEx1\obj\Debug\net8.0\WedukaEx1.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\WedukaEx1\WedukaEx1\obj\Debug\net8.0\WedukaEx1.AssemblyInfo.cs
+C:\Users\lucas\source\repos\WedukaEx1\WedukaEx1\obj\Debug\net8.0\WedukaEx1.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\WedukaEx1\WedukaEx1\obj\Debug\net8.0\WedukaEx1.dll
+C:\Users\lucas\source\repos\WedukaEx1\WedukaEx1\obj\Debug\net8.0\refint\WedukaEx1.dll
+C:\Users\lucas\source\repos\WedukaEx1\WedukaEx1\obj\Debug\net8.0\WedukaEx1.pdb
+C:\Users\lucas\source\repos\WedukaEx1\WedukaEx1\obj\Debug\net8.0\WedukaEx1.genruntimeconfig.cache
+C:\Users\lucas\source\repos\WedukaEx1\WedukaEx1\obj\Debug\net8.0\ref\WedukaEx1.dll
